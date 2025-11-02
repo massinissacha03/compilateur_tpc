@@ -1,0 +1,22 @@
+
+
+
+int main(void){
+    char a ; 
+    int b ; 
+    while(b!=10 ){
+        if (b % 2 == 0){
+            putchar('L') ; 
+
+        } else {
+            putchar('O') ; 
+
+        }
+
+        b = b+1 ; 
+    }
+
+    return 0 ; 
+
+
+}

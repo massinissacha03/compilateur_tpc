@@ -1,0 +1,9 @@
+
+
+
+void foo(void){
+
+}
+int main(void){
+    if(foo()) return 0 ; 
+}

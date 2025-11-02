@@ -1,0 +1,6 @@
+
+/* erreur : ne pas fermer la parenthese d'un while 
+void whileloop(int n) {
+    while (n > 0
+        n = n - 1;
+}

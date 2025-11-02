@@ -1,0 +1,13 @@
+
+
+
+
+
+void sigma(void){
+    return 0 ; 
+}
+
+
+int main(void){
+    sigma() ; 
+}

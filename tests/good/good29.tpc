@@ -1,0 +1,10 @@
+int main(void) {
+    int count; 
+    count='a' ; // doit pas causer d'avertissement 
+
+    return 'b' ; //correct donc pas d'avertissement
+
+    return 0 ; 
+
+
+}

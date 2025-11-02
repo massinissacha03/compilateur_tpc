@@ -1,0 +1,15 @@
+void foo(void){
+    static int i;
+    putint(i);
+    putchar(' ');
+    i = i + 1;
+}
+
+int main(void){
+    int i;
+    i = 0;
+    while (i < 5){
+        foo();
+        i = i + 1;
+    }
+}

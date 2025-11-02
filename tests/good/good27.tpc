@@ -1,0 +1,18 @@
+
+
+
+
+int main(void){
+    putchar('M') ; 
+    putchar('a') ; 
+    putchar('s') ; 
+    putchar('s') ; 
+    putchar('i') ; 
+    putchar('n') ; 
+        putchar('i') ; 
+    putchar('s') ; 
+    putchar('s') ; 
+        putchar('a') ; 
+    return 3  ; 
+
+}

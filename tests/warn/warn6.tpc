@@ -1,0 +1,16 @@
+
+int omega(char a){
+    return 0 ; 
+}
+int sigma(int a ) {
+    return a ; 
+}
+
+int main(void){
+    char p ; 
+    p = getint() ; //warning
+
+    sigma('a') ; //pas de warning ici 
+    omega(3) ; //warning 
+    return p ; 
+}

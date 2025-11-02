@@ -1,0 +1,17 @@
+
+
+
+int main(void){
+    while(!getchar()){
+        putchar('n') ; 
+        putchar('o') ; 
+        putchar('\n') ; 
+    }
+    putchar('y') ; 
+    putchar('e') ; 
+    putchar('s') ; 
+    putchar('\n') ; 
+
+
+    
+}

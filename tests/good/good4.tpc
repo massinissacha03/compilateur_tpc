@@ -1,0 +1,8 @@
+
+/*ceci est un commentaire */
+
+int main(void){
+    int a ; 
+    a = getint() ; 
+    return -1*a ; 
+}

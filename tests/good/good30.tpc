@@ -1,0 +1,11 @@
+
+
+int fun(void){
+    return 21; 
+
+}
+int main(void) {
+    putint(fun());
+
+    return 0 ; 
+}

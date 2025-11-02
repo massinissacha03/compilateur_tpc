@@ -1,0 +1,14 @@
+
+
+
+
+int main(void){
+
+
+    if (!getchar() ){
+        return -1 ; 
+    }
+    else {
+        return 1 ; 
+    }
+}

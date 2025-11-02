@@ -1,0 +1,10 @@
+
+
+/*division et modulo par 0 */
+
+int main(void){
+    int b ; 
+    b = 4 ; 
+    return 1%0 == b/0; 
+
+}

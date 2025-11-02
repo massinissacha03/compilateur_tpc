@@ -1,0 +1,5 @@
+/* erreur : fonction sans parametre ou void */
+
+int main {
+    return 0;
+}

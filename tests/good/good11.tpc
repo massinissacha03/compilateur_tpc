@@ -1,0 +1,15 @@
+
+
+int main(void){
+
+
+    /*ceci est un commentaire*/
+
+    static int a ; 
+
+    if ( !a && 1!=0) return 1 ; 
+
+    return 0 ; 
+
+
+}

@@ -1,0 +1,18 @@
+
+
+int b ; 
+int main(void){
+    int a; 
+
+    putchar('a') ; 
+    putchar(':') ; 
+
+    a = getint() ; 
+    putchar('a') ; 
+    putchar(':') ; 
+    b= getint() ; 
+
+
+
+    return a!=b ; 
+}

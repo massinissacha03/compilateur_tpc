@@ -1,0 +1,15 @@
+
+
+
+char alpha(int a){
+
+    if (a == 2) return 'a' ; 
+    return 'c' ; 
+}
+
+
+int main(void){
+    putchar(alpha(2)) ; 
+    putchar(alpha(3)) ; 
+    return 0 ; 
+}

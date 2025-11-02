@@ -1,0 +1,8 @@
+
+
+/* erreur : oubli d'accolades */
+
+int main(int a ){
+    if ( a==0 ){ 
+        return 0 ; 
+}

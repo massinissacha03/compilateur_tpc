@@ -1,0 +1,17 @@
+
+
+void beta(void){
+
+}
+
+
+
+int main(void) { 
+    
+    int a; 
+
+
+    int b ; 
+    b=a+beta ; 
+    
+    return 15; }

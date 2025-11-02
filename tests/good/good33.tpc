@@ -1,0 +1,10 @@
+
+
+
+
+char varChar ; 
+
+int main(void){
+    static int alpha ;
+    return varChar ; 
+}

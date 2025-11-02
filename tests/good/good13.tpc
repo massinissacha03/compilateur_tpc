@@ -1,0 +1,17 @@
+
+
+
+int a ; 
+char ca ; 
+
+int func(void){
+    putchar('c') ; 
+    a = 2 ;
+    return 2 ;  
+
+}
+
+int main(void){
+    func() ; 
+    return a ; 
+}

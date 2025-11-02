@@ -1,0 +1,4 @@
+/*erreur : oublie du ';'*/
+int main(){
+    return 
+}

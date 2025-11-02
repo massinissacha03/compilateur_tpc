@@ -1,0 +1,23 @@
+/* ça 
+c'est un 
+commentaire*/
+
+int main(void) { //commentaire
+    char c ; 
+    c='X';
+    while (1) {
+        if (c == 'Z') {
+            return 1;
+        } else {
+        c = 'Z' ; }
+    }
+}
+
+/* ça c'est un commentaire*/
+
+/* ça c'est un 
+    commentaire*/
+
+/* ça c'est 
+un
+ commentaire*/

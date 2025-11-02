@@ -1,0 +1,14 @@
+
+
+
+
+char alpha(void){
+    int a; 
+    a=99 ; 
+    return a ; 
+}
+
+
+int main(void){
+    return alpha() ; 
+}

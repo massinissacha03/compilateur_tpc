@@ -1,0 +1,2 @@
+/*l'erreur est la déclaration de variable sans fonctions */
+int a ; 

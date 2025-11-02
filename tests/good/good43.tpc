@@ -1,0 +1,16 @@
+
+
+
+
+int omega(void){
+    return 2 ; 
+}
+
+int alpha(void){
+    return 3 ; 
+}
+int main(void){
+
+
+    return 5 == (omega()+alpha()) ; 
+}

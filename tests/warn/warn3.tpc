@@ -1,0 +1,15 @@
+
+
+void f(char c) {
+
+
+}
+void g(void) {
+    f(65);  
+}
+
+
+
+int main(void){
+    return g() ; 
+}

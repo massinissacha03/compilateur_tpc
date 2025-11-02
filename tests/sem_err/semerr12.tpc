@@ -1,0 +1,15 @@
+
+
+
+
+int alpah(void){
+
+}
+
+char alpah(char a ){
+    return a ; 
+}
+
+int main(void){
+    return 0 ; 
+}

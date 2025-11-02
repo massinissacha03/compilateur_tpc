@@ -1,0 +1,5 @@
+/* erreur : fonction sans type */ 
+
+fonction(void){
+ return 0; 
+}

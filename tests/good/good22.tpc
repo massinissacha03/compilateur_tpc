@@ -1,0 +1,11 @@
+
+
+int alpha(int a ){
+    
+   static int b ; 
+   b=3 ; 
+    return b*b*b ; 
+}
+int main(void){
+    return alpha(3)+getint() ; 
+}

@@ -1,0 +1,7 @@
+
+
+/* erreur : static dans variable globales */
+static int a ; 
+int main(void){
+    return 0 ; 
+}

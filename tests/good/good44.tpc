@@ -1,0 +1,13 @@
+
+
+
+int meta(void){
+    int a ; 
+    a= getint() ; 
+    return a ; 
+}
+
+
+int main(void){
+    return meta() ; 
+}

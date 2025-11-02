@@ -1,0 +1,11 @@
+
+
+
+
+char fun(void){
+    return getchar() ;
+}
+
+int main(void){
+    putchar(fun()) ; 
+}

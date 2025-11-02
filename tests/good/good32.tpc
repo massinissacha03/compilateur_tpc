@@ -1,0 +1,9 @@
+
+
+
+int main(void){
+    if (getchar() == 'c') return 0 ; 
+    else 
+        return 3 ; 
+    
+    }

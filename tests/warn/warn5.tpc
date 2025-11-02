@@ -1,0 +1,9 @@
+
+
+char alpha ; 
+
+
+int main(void){
+    alpha = 43 ; 
+    return alpha ; 
+}

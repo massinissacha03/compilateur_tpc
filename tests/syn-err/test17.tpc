@@ -1,0 +1,6 @@
+/* erreur : type de varibale non autorisé */
+
+int main(void){
+    float alpha; 
+    return 0; 
+}

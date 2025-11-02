@@ -1,0 +1,14 @@
+// Test valide numéro 6
+
+
+int main(void) { 
+    static int a; 
+    int b;
+
+    a = 2 ; 
+    b = getint(); 
+    return a==b ;  
+
+
+
+}

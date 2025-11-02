@@ -1,0 +1,6 @@
+
+/* erreur : parenthese ouvrante d'un if manquante */
+void condition(int n) {
+    if n < 10)
+        n++;
+}

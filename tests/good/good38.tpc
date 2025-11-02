@@ -1,0 +1,10 @@
+
+
+
+int alpha ; 
+int main(void){
+    int beta ; 
+    beta = 0 ; 
+    return !( alpha == alpha && alpha) && alpha && alpha != beta ;  
+
+}
