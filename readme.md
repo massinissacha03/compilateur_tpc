@@ -26,7 +26,6 @@
 * [Corrections (héritées du projet S1)](#corrections-héritées-du-projet-s1)
 * [Arborescence](#arborescence)
 * [Contribuer](#contribuer)
-* [Licence](#licence)
 
 ---
 
@@ -337,5 +336,6 @@ Idées d’amélioration :
 * Optimisations simples (propagation de constantes, évitement de `mov` inutiles).
 
 ---
+
 
 

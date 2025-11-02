@@ -9,3 +9,14 @@ bin/
 # OS/Editor
 .DS_Store
 *.swp
+here
+here.pub
+# Build
+obj/
+bin/
+*.o
+*.out
+*.asm
+# OS/Editor
+.DS_Store
+*.swp
