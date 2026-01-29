@@ -1,6 +1,6 @@
 # Compilateur **TPC**
 
-**Massinissa CHABANE**
+**Massinissa CHABANE - Boualem CHIBANE**
 
 **Cible :** x86_64 Linux (ELF64, convention d’appel System V AMD64)
 **Langage d’implémentation :** C (+ Flex/Bison)
